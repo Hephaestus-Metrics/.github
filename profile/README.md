@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hephaestus Metrics
 
-<!--
+This is the main repository of the Hephaestus Project
 
-**Here are some ideas to get you started:**
+Hephaestus is a solution aiming to make Developer' lives easier by providing tools for conversion of Prometheus metrics to Java objects.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This repository consists of:
+* GUI and GUI-backend - frontend and backend of microservice providing complex support for metrics' selection
+* Tranlsator - a library translating JSON metrics into Java objects
+* Deployrmnt - example deployment files.
+* Metrics Adapter, Business Demo - example applications showcasing how the solution can be utilized
+
+In order to access ready-to-use Docker images visit https://hub.docker.com/u/hephaestusmetrics
